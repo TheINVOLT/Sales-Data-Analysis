@@ -16,7 +16,7 @@ Better viewed with Google Sheets: https://docs.google.com/spreadsheets/d/1SECnz0
 | `Sales_Analysis.xlsx` | The single workbook. Tabs: `Data` (raw, 50,000 rows), `Processed Data` (cleaned, 27 columns), `Q1` to `Q10`, plus `Analysis Tables` (live formulas) and `Charts`. |
 | `sales_analysis.ipynb` | Jupyter / Google Colab notebook with the full analysis (cleaning, tests, scenarios, charts). |
 | `sales_analysis.py` | The same code as a plain script: `python sales_analysis.py 50000_Sales_Records.csv output` |
-| `Sales_Profit_Mix_Management_Deck` | 7-slide management presentation |
+| `Sales Profit Mix Management Briefing` | 7-slide management presentation |
 | `charts/` | PNG charts produced by the code. |
 | `README.md` | This file. |
 
