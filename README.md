@@ -1,7 +1,7 @@
 # Sales-Data-Analysis
 End-to-end Python EDA of 50,000 sales orders (2010-2017): finds which products drive profit vs. revenue, tests region/channel effects, and models pricing and mix-shift opportunities.
 
-Better viewed with Google Sheets: https://docs.google.com/spreadsheets/d/1SECnz08m3kDAiRDrIh51_5Vsu9PeKdv5tfl-BrkqKQc/edit?usp=sharing
+Best viewed with Google Sheets: https://docs.google.com/spreadsheets/d/1SECnz08m3kDAiRDrIh51_5Vsu9PeKdv5tfl-BrkqKQc/edit?usp=sharing
 
 # Data Analyst Assessment: Sales Profit Mix Analysis
 
